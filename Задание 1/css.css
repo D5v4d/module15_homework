@@ -1,0 +1,17 @@
+.btn {
+    width: 150px;
+    height: 30px;
+    margin: 30px 30px;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid green;
+    color: green;
+    cursor: pointer;
+}
+
+.btn_icon {
+    width: 15px;
+    height: 15px;
+    font-size: 15px;
+}
